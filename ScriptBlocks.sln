@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScriptBlocks", "ScriptBlocks.csproj", "{49EFE2C7-EE3A-494C-8E76-6ED1C08C2F78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49EFE2C7-EE3A-494C-8E76-6ED1C08C2F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49EFE2C7-EE3A-494C-8E76-6ED1C08C2F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49EFE2C7-EE3A-494C-8E76-6ED1C08C2F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49EFE2C7-EE3A-494C-8E76-6ED1C08C2F78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03371B24-E2F0-4AA1-A305-409998559608}
+	EndGlobalSection
+EndGlobal

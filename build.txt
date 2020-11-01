@@ -1,0 +1,3 @@
+displayName = Script Blocks
+author = Glarity
+version = 0.1

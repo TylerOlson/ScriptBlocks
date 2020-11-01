@@ -1,0 +1,1 @@
+Write scripts inside Terraria through blocks.
